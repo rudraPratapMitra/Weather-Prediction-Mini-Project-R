@@ -1,6 +1,5 @@
 # Weather-Prediction-Mini-Project-R
-Description:
-This repository contains a weather prediction mini project implemented in R. The project focuses on predicting weather conditions in Seattle based on historical data. The main goal is to develop a predictive model using the Naive Bayes algorithm to forecast the weather accurately.
+This weather prediction mini project serves as a practical demonstration of applying the Naive Bayes algorithm for weather forecasting. By analyzing historical data and evaluating the model's performance, it provides insights into the accuracy of predictions and potential applications in real-world scenarios. Feel free to explore the code, experiment with different models, and contribute to further enhance the project's capabilities.
 
 The project includes the following steps:
 
@@ -34,4 +33,4 @@ The project includes the following steps:
    - The confusion matrix is represented as a heatmap, with color indicating the frequency of correct and incorrect predictions.
    - The visualization helps in understanding the distribution of predicted and actual weather conditions.
 
-This weather prediction mini project serves as a practical demonstration of applying the Naive Bayes algorithm for weather forecasting. By analyzing historical data and evaluating the model's performance, it provides insights into the accuracy of predictions and potential applications in real-world scenarios. Feel free to explore the code, experiment with different models, and contribute to further enhance the project's capabilities.
+
