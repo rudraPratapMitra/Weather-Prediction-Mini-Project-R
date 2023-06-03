@@ -33,4 +33,4 @@ The project includes the following steps:
    - The confusion matrix is represented as a heatmap, with color indicating the frequency of correct and incorrect predictions.
    - The visualization helps in understanding the distribution of predicted and actual weather conditions.
 
-
+<img width="507" alt="weatherPredictionGithub3" src="https://github.com/rudraPratapMitra/Weather-Prediction-Mini-Project-R/assets/135310293/fc414f59-baf7-4dbf-ae94-aa7b02b6fd7c">
